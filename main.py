@@ -1,5 +1,5 @@
 """
-This is the main program which calls the starting function to build Browser and File finder
+This is the main program which calls the starting function to build the PdfMerger app
 Menu and operations
 """
 from start import starting
