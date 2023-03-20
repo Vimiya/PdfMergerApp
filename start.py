@@ -4,7 +4,7 @@ from app_functions import *
 
 def starting():
     """
-    This function will start with creating the menu for Directory Browser and File finder
+    This function will start with creating the menu for browsing directory and also file finder
     """
     writelogs('starting', 'info', 'started with browser menu building')
     root = Tk()
